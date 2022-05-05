@@ -1,0 +1,25 @@
+{
+	"name": "jest_practise",
+	"version": "1.0.0",
+	"description": "playing with Jest",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/YasusBeebu/Jest_practise.git"
+	},
+	"author": "Zack",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/YasusBeebu/Jest_practise/issues"
+	},
+	"homepage": "https://github.com/YasusBeebu/Jest_practise#readme",
+	"devDependencies": {
+		"@babel/core": "^7.17.10",
+		"@babel/preset-env": "^7.17.10",
+		"babel-jest": "^28.0.3",
+		"jest": "^28.0.3"
+	}
+}
